@@ -1,0 +1,11 @@
+Model Information:
+* title:	Central Park Lamppost
+* source:	https://sketchfab.com/3d-models/central-park-lamppost-970c2fc52bdd4347875dd48d8cc84ffe
+* author:	SpaceDassie13 (https://sketchfab.com/SpaceDassie13)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Central Park Lamppost" (https://sketchfab.com/3d-models/central-park-lamppost-970c2fc52bdd4347875dd48d8cc84ffe) by SpaceDassie13 (https://sketchfab.com/SpaceDassie13) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
